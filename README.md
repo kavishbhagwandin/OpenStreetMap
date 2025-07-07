@@ -11,5 +11,6 @@ that the extraction took almost **8 HOURS!!!** for me.
 
 When building the server, you need your data to be in a .tsv file or another format if that is specified in their setup.
 This is the command i use to build the server: ./RecommenderServer.exe build-tree from-tsv "your_tsv_file".tsv 
+
 After the server has been build, a .tsv.schemaTree.typed.pb file will be created and we use it to start running the file.
 This is the command i use to start running the server: ./RecommenderServer.exe serve "your_tsv_file".tsv.schemaTree.typed.pb
