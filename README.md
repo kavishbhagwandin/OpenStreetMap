@@ -7,7 +7,7 @@ have been created in the same folder (for me at leats it did).
 
 The data that was used is downloaded from OpenStreetMap Geofabric's server, "netherlands-latest.osm.pbf".
 The data is then extracted using the osmium library (https://wiki.openstreetmap.org/wiki/Osmium) (https://lonvia.github.io/geopython17-pyosmium/#1), take note
-that the extraction took almost 8 HOURS!!! for me.
+that the extraction took almost **8 HOURS!!!** for me.
 
 When building the server, you need your data to be in a .tsv file or another format if that is specified in their setup.
 This is the command i use to build the server: ./RecommenderServer.exe build-tree from-tsv "your_tsv_file".tsv 
