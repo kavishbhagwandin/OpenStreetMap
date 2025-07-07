@@ -2,7 +2,7 @@
 
 This project makes use of an existing recommender server --> https://github.com/martaannaj/RecommenderServer, and this is the paper --> https://link.springer.com/content/pdf/10.1007/978-3-030-49461-2_11.pdf
 
-The python file was made in the same folder as the RecommenderServer, after setting up the server based on their instructions, a .exe file should 
+The python file (Jupyter file) was made in the same folder as the RecommenderServer, after setting up the server based on their instructions, a .exe file should 
 have been created in the same folder (for me at leats it did).
 
 The data that was used is downloaded from OpenStreetMap Geofabric's server, "netherlands-latest.osm.pbf".
